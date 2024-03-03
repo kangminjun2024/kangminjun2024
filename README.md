@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
+
 # Hi there, I'm Kang MinJun 👋
 * ### kang.minjun@yonsei.ac.kr
 
