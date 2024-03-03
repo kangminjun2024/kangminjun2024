@@ -1,5 +1,5 @@
 # Hi there, I'm Kang MinJun 👋
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:"/>kang.minjun@yonasei.ac.kr
+* ### kang.minjun@yonsei.ac.kr
 
 * ## 👨‍💼 Main Job
   * ### Medicine AI Researcher / SW Engineer
