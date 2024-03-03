@@ -8,7 +8,9 @@
 
 * ## 📚 Degree
   * ### 2024.02 Yonsei university college of medicnie, Master's degree, Digital healthcare major
+  * http://mra.yonsei.ac.kr/
   * ### 2017.02 Yonsei university mirae education center, Bachelor's degree, Multimedia major
+  * https://go.yonsei.ac.kr/fro_end/html/main/#none
 
 * ## 🛠️ Stacks
   * ### Language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
