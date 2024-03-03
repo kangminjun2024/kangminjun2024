@@ -1,5 +1,5 @@
 # Hi there, I'm Kang MinJun 👋
-## * Main Job
+* ## * Main Job
 ###   * Medicine AI Researcher / SW Engineer
 
 ## * Degree
