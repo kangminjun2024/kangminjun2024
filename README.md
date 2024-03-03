@@ -1,11 +1,11 @@
 # Hi there, I'm Kang MinJun 👋
-## Main Job
-### Medicine AI Researcher / SW Engineer / BigData Engineer
+## * Main Job
+###   * Medicine AI Researcher / SW Engineer
 
-## Degree
-### test
+## * Degree
+###   * test
 
-## Major
-### test
+## * Major
+###   * test
 
 test
