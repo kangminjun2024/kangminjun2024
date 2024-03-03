@@ -6,7 +6,7 @@
 * ## 👨‍💼 Main Job
   * ### Medicine AI Researcher / SW Engineer
 
-* ## 🏫 Degree
+* ## 📚 Degree
   * ### 2024.02 Master's degree, Digital healthcare major
   * ### 2017.02 Bachelor's degree, Multimedia major
 
