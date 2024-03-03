@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KMJ's%20GitHub&fontSize=90)
-
-![header](https://capsule-render.vercel.app/api?type=slice)
-
 ![header](https://capsule-render.vercel.app/api?
 type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?
