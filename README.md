@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KMJ's%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KMJ's%20GitHub&fontSize=90)
 
 
 # Hi there, I'm Kang MinJun 👋
