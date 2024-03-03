@@ -7,8 +7,8 @@
   * ### Medicine AI Researcher / SW Engineer
 
 * ## 📚 Degree
-  * ### 2024.02 Master's degree, Digital healthcare major
-  * ### 2017.02 Bachelor's degree, Multimedia major
+  * ### 2024.02 Yonsei university college of medicnie, Master's degree, Digital healthcare major
+  * ### 2017.02 Yonsei university mirae education center, Bachelor's degree, Multimedia major
 
 * ## 🛠️ Stacks
   * ### Language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
