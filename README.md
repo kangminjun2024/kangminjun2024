@@ -1,6 +1,6 @@
-https://capsule-render.vercel.app/api?![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KMJ's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KMJ's%20GitHub&fontSize=90)
 
-https://capsule-render.vercel.app/api?![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 # Hi there, I'm Kang MinJun 👋
 * ### kang.minjun@yonsei.ac.kr
