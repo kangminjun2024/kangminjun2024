@@ -2,10 +2,11 @@
 * ## Main Job
   * ### Medicine AI Researcher / SW Engineer
 
-## * Degree
-###   * test
+* ## 🏅 Degree
+  * ### 2024.02 Master's degree, Digital healthcare major
+  * ### 2017.02 Bachelor's degree, Multimedia major
 
-## * Major
-###   * test
+* ## 🛠️ Stacks
+  * ### Python <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 test
